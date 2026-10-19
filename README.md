@@ -37,4 +37,4 @@ Python (pandas, statsmodels, matplotlib), Julia, Jupyter, Git, conda, LaTeX
 
 ## Contact
 
-[LinkedIn] · [email]
+[[LinkedIn](https://www.linkedin.com/in/maxence-calamand-157035225/)] · [[Mail](mailto:2max.calamand@gmail.com)]
