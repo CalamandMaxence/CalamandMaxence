@@ -1,4 +1,4 @@
-# Hi, I'm Max
+# Hi, I'm Maxence
 
 I analyse biological data, from live microscopy to gene expression, and build
 the Python tools that make that analysis reproducible and usable by non-coders.
